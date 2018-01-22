@@ -2,13 +2,13 @@
   "name": "react-scripts-finpay",
   "version": "1.0.17",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "lubc/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/lubc/create-react-app/issues"
   },
   "files": [
     "bin",
